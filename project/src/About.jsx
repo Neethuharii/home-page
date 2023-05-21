@@ -8,7 +8,7 @@ const About = () => {
       <Banner
       head1='wasteless'
       head2='harvest'
-      content={'ghyujokiytreresdwxcvvbnm'}
+      content={'write a content here'}
       image={aboutimage}
       data={<button className='mt-2'>About more</button>}
       />
